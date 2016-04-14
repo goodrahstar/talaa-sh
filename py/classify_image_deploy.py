@@ -31,7 +31,6 @@ jsondata = {
                'ImportantFindings' : 'Classes',
                'Score' : 0.0
                }
-   
 jsonlist =[]
 # classify_image_graph_def.pb:
 #   Binary representation of the GraphDef protocol buffer.
